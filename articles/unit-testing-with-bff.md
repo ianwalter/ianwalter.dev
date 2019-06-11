@@ -4,7 +4,18 @@
 
 Let’s create a simple utility to
 
+```js
+class NumberFormatter {
+	constructor (format) {
+		this.format = format
+	}
+
+	format (number) {
+		
+	}
+}
+```
 
 [1]:	https://github.com/ianwalter/bff
-[2]:    https://jestjs.io
+[2]:	https://jestjs.io
 [3]:	https://github.com/avajs/ava
